@@ -19,9 +19,7 @@ button {
     cursor: pointer;
 }
 
-input {
-    -webkit-appearance: none;
-}
+
 
 button,
 input {
