@@ -21,8 +21,7 @@ button {
 
 
 
-button,
-input {
+button, input {
     border: none;
     background: none;
     outline: none;
