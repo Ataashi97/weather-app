@@ -1,11 +1,11 @@
 :root {
-    --bg_main: #0a1f44;
+    --bg_main: #06740b;
     --text_light: #fff;
     --text_med: #53627c;
-    --text_dark: #1e2432;
-    --red: #ff1e42;
-    --darkred: #c3112d;
-    --orange: #ff8c00;
+    --text_dark: #161e30;
+    --red: #e7304f;
+    --darkred: #4d0510;
+    --orange: #6200ff;
 }
 
 * {
